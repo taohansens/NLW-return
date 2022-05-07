@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
-    paddingRight: 24,
+    marginRight: 24,
   },
   titleText: {
     fontSize: 20,
@@ -30,6 +30,7 @@ export const styles = StyleSheet.create({
   input: {
     height: 112,
     padding: 12,
+    width: "100%",
     marginBottom: 8,
     borderRadius: 4,
     borderWidth: 1,

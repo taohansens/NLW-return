@@ -17,10 +17,10 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#desktop_computer-screenshots)">Screenshots</a> &#xa0; | &#xa0;
+  <a href="#desktop_computer-screenshots")>Screenshots</a> &#xa0; | &#xa0;
   <a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias e Bibliotecas</a> &#xa0; | &#xa0;
-  <a href="#gear-instala%C3%A7ao">Instalando</a> &#xa0; | &#xa0;
-  <a href="#memo-licen%C3%A7a">Licença</a> &#xa0;
+  <a href="#gear-instalação">Instalação</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0;
 </p>
 <br>
 
